@@ -1,1 +1,2 @@
-# scamfraud
+# AI Scam Detection API
+The AI Scam Detection API is an advanced Flask-based AI tool that detects scam content in text and URLs using machine learning and rule-based filtering. It features natural language processing (NLP) for text preprocessing, WHOIS-based domain analysis for scam websites, and TF-IDF vectorization for AI-powered detection. The model is fine-tuned for high accuracy and flags suspicious content using spam keyword matching, URL pattern analysis, and AI classification. This real-time API provides scam probability scores, making it a powerful tool for cybersecurity applications.
