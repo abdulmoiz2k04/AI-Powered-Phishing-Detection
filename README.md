@@ -1,2 +1,2 @@
-# AI Scam Detection API
+# AI Scam Detection
 The AI Scam Detection is an advanced tool that detects scam content in text and URLs using machine learning and rule-based filtering. It features natural language processing (NLP) for text preprocessing, WHOIS-based domain analysis for scam websites, and TF-IDF vectorization for AI-powered detection. The model is fine-tuned for high accuracy and flags suspicious content using spam keyword matching, URL pattern analysis, and AI classification. 
