@@ -1,0 +1,8 @@
+streamlit
+nltk
+joblib
+whois
+tldextract
+numpy
+scikit-learn
+pandas
